@@ -9,9 +9,9 @@
 
 ---
 
-### Name: Enter your name
+### Name: Matthew Isham
 
-### Email: Enter your OU email
+### Email: mi465623@ohio.edu
 
 ---
 
